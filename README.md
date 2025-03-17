@@ -4,7 +4,7 @@
 Bienvenue sur mon GitHub ! 🚀  
 
 ## 🧑‍💻 Qui suis-je ?  
-Je suis étudiante en BTS SIO, passionné par le développement et curieux d'explorer de nouvelles technologies.  
+Je suis étudiante en BTS SIO, passionné par le développement et curieuse d'explorer de nouvelles technologies.  
 J'aime coder des applications pratiques et apprendre de nouvelles façons d'améliorer mes projets.  
 
 🎭 En dehors du code, j'aime aussi le cinéma, la musique, la peinture et la danse !  
