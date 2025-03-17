@@ -11,13 +11,10 @@ I enjoy building practical applications and constantly finding ways to improve m
 ## 💡 Tech Stack  
 💻 **Languages & Tools**: Java, PHP, HTML, CSS, SQL, JavaScript  
 
+## 🚀 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+
 📫 **Let's Connect!**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ton-profil)  
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/ton-profil)  
 [![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://instagram.com/ton-profil)  
-
-## 🚀 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-
-📬 **Let's Connect!**  
-Feel free to reach out on my linkedin or explore my projects! 😃  
