@@ -18,11 +18,7 @@ I enjoy building practical applications and constantly finding ways to improve m
 ![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
 ## 🚀 My Projects  
-🔹 [**Consumption Tracking App (JavaFX)**](#)  
-🔹 [**Summer Camp Management System**](#)  
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
+are coming !
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil)  
