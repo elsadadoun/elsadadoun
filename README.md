@@ -3,18 +3,31 @@
 Welcome to my GitHub! 🚀  
 
 ## 🧑‍💻 About Me  
-I'm a BTS SIO student with a passion for development and a curiosity for new technologies.  
+I'm a **BTS SIO student** with a passion for development and a curiosity for new technologies.  
 I enjoy building practical applications and constantly finding ways to improve my projects.  
 
-🎭 When I'm not coding, you'll probably find me enjoying cinema, music, painting, or dancing!  
+🎭 **Outside of coding, I love** cinema, music, painting, and dancing!  
 
 ## 💡 Tech Stack  
-💻 **Languages & Tools**: Java, PHP, HTML, CSS, SQL, JavaScript  
+💻 **Languages & Tools:**  
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-%2300758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
-## 🚀 GitHub Stats  
+## 🚀 My Projects  
+🔹 [**Consumption Tracking App (JavaFX)**](#)  
+🔹 [**Summer Camp Management System**](#)  
+
+## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
 
-📫 **Let's Connect!**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ton-profil)  
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=flat&logo=twitter)](https://twitter.com/ton-profil)  
-[![Instagram](https://img.shields.io/badge/Instagram-purple?style=flat&logo=instagram)](https://instagram.com/ton-profil)  
+## 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ton-profil)  
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ton-profil)  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ton-profil)  
+
+## 📱 My App  
+[![App Screenshot](https://ton-image-url.com/image.png)](https://lien-de-ton-app.com)  
