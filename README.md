@@ -5,8 +5,7 @@ Welcome to my GitHub! 🚀
 ## 🧑‍💻 About Me  
 I'm a **BTS SIO student** with a passion for development and a curiosity for new technologies.  
 I enjoy building practical applications and constantly finding ways to improve my projects.  
-
-🎭 **Outside of coding, I love** cinema, music, painting, and dancing!  
+ 
 
 ## 💡 Tech Stack  
 💻 **Languages & Tools:**  
